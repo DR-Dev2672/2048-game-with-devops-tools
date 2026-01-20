@@ -37,7 +37,10 @@ Steps involved in deploying this application are:-
 <img width="1878" height="804" alt="Screenshot 2026-01-21 041615" src="https://github.com/user-attachments/assets/e62edd76-58b8-45cf-9da5-8333b4827252" />
 ```
 16> Verfiy deployment are running or not.
-
 ```
+<img width="1880" height="962" alt="Screenshot 2026-01-21 045328" src="https://github.com/user-attachments/assets/4ff7b02f-8c0c-49f5-971b-6c4f56741387" />
+
+
+
 
 

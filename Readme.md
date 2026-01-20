@@ -19,6 +19,6 @@ Steps involved in deploying this application are:-
 13> ADD helm repo
 14> Update helm repo
 15> Install aws load balancer
-16> Verfiy deployment are running or not
+16> Verfiy deployment are running or not.
 
 

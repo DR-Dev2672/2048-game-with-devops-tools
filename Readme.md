@@ -1,7 +1,8 @@
-```
+
 This is a 2048 game which is deployed using EKS(Elastic Kubernetes Service).
 
 http://k8s-game2048-ingress2-cdca5672ea-490139654.us-east-1.elb.amazonaws.com
+```
 
 Steps involved in deploying this application are:-
 

@@ -12,6 +12,8 @@ Steps involved in deploying this application are:-
 4> aws cli installation
 5> configure aws in our terminal
 6> Create cluster using command
+<img width="1900" height="786" alt="Screenshot 2026-01-21 041350" src="https://github.com/user-attachments/assets/f4f0387d-6d30-426f-9a19-7615ed3c39db" />
+
 7> Add fargate profile for authentication
 8> Deploy the deployment,services,ingress
 9> Configure IAM OIDC provider

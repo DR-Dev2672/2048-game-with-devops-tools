@@ -40,6 +40,11 @@ Steps involved in deploying this application are:-
 ```
 <img width="1880" height="962" alt="Screenshot 2026-01-21 045328" src="https://github.com/user-attachments/assets/4ff7b02f-8c0c-49f5-971b-6c4f56741387" />
 
+17> Cost and Billing of my EKS
+
+<img width="1920" height="1080" alt="Screenshot (1694)" src="https://github.com/user-attachments/assets/cd8f5a47-aea3-4cf6-a4a5-b15671723e89" />
+
+
 
 
 
